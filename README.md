@@ -1,6 +1,11 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc38d23e-14ac-4c9c-a696-9a64840e327e" />
+
+
 # 💫 About Me:
 # 👋 Hi, I'm Abdullah Anwar<br><br>**JavaScript Web Developer** 💛 | Building Web Apps 🌐 | Debugging Bugs 🐛 | Learning React & Node.js ⚛️🟩<br><br>---<br><br>## 🧑‍💻 About Me<br>- 🔭 Currently working on **Web Projects**<br>- 👯 Open to collaborate on **JS Frontend Projects**<br>- 🤝 Seeking help with **Code Structure & Best Practices**<br>- 💬 Ask me about **JavaScript, HTML, CSS, GitHub**<br>- ⚡ Fun fact: **Errors fear me 😎🔥**<br><br>---
 
+<img align="right" width="400" alt="image" src="https://github.com/user-attachments/assets/871adc8f-9a20-4460-b605-9cd1e5a405c7" />
+">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/marlin_choper007.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah Anwar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abdullah_Anwar_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M_Abdullah Anwar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/M.Abdullah_ Anwar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/M.Abdullah Anwar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/M.Abdullah_Anwar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TGNinja Gaming) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mabdullahanwar85@gmailcom) 
