@@ -4,8 +4,17 @@
 
 # Hi, I’m Abdullah 👋
 <br>
-# 💫 About Me:
-- 🔭 I’m currently working on building interactive web apps using JavaScript and React.<br>- 🌱 I’m currently learning advanced JavaScript, APIs, and AI tools.<br>- 👯 I’m looking to collaborate on open-source frontend projects.<br>- 🤔 I’m looking for help with improving my backend and database skills.<br>- 💬 Ask me about JavaScript, React, and web development in general.<br>- 📫 How to reach me: mabdullahanwar85@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love solving coding challenges while listening to music!<br>
+# 💫 About Me
+
+- 🔭 **I’m currently working on:** building interactive web apps using JavaScript and React.
+- 🌱 **I’m currently learning:** advanced JavaScript, APIs, and AI tools.
+- 👯 **I’m looking to collaborate on:** open-source frontend projects.
+- 🤔 **I’m looking for help with:** improving my backend and database skills.
+- 💬 **Ask me about:** JavaScript, React, and web development in general.
+- 📫 **How to reach me:** mabdullahanwar85@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love solving coding challenges while listening to music!
+
 
 
 ## 🌐 Socials:
