@@ -1,7 +1,6 @@
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/CodeWIthAbdullah-007/MS_OFFICE_GITHUB_BANNER_DESIGN/7c32401f0f3e1e471ab9ec96a14e793273025df1/GITHUB_BANNER_DESIGN.PNG" alt="GitHub Banner">
 </p>
-
 <br clear="both">
 
 <h1 align="center">Hey 👋 I'm Abdullah Anwar</h1>
@@ -73,6 +72,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
 </div>
@@ -89,6 +90,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=ABDULLAH_THE_CODER&fontSize=69&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+###
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodeWithAbdullah-007&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
