@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/CodeWIthAbdullah-007/MS_OFFICE_GITHUB_BANNER_DESIGN/7c32401f0f3e1e471ab9ec96a14e793273025df1/GITHUB_BANNER_DESIGN.PNG" alt="GitHub Banner">
+  <img src="https://raw.githubusercontent.com/CodeWIthAbdullah-007/NEW_GITHUB_BANNER_DESIGN/main/NEW_GITHUB_BANNER_DESIGN/GITHUB_BANNER_DESIGN_preview.png" alt="GitHub Banner Design" width="600">
 </p>
 <br clear="both">
 
