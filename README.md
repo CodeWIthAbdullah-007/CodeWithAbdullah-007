@@ -1,8 +1,3 @@
-<p align="center">
-<img scr="https://github.com/CodeWIthAbdullah-007/NEW_GITHUB_BANNER_DESIGN/blob/42b2788bc7cacaf9b8cbeace22de01b4fe400ced/NEW_GITHUB_BANNER_DESIGN/Doc1.docx" height="200%" width="200%"> 
-</p>
-<br clear="both">
-
 <h1 align="center">Hey 👋 I'm Abdullah Anwar</h1>
 
 ###
