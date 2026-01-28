@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Abdullah Anwar</h1>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-LINK-HERE](https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
+  <a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
     <img src="https://img.shields.io/badge/MY%20PORTFOLIO%20WEBSITE-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
@@ -78,18 +78,34 @@ JavaScript ⚡ | HTML & CSS 🎨 | React.js ⚛️ | Node.js 🌐 | AI Tools �
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=CodeWithAbdullah-007&theme=ambient_gradient&show_icons=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=CodeWithAbdullah-007&theme=ambient_gradient)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAbdullah-007&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAbdullah-007&theme=ambient_gradient&hide_border=false" height="165"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAbdullah-007&theme=ambient_gradient&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAbdullah-007&theme=ambient_gradient&hide_border=false&layout=compact" height="165"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWithAbdullah-007&theme=radical&margin-w=4)
+
+<p align="center">
+![](https://github-profile-trophy.vercel.app/?username=CodeWithAbdullah-007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Proudly created with ❤️ using GPRM</sub>
+</p>
