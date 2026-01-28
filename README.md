@@ -1,99 +1,95 @@
 <h1 align="center">Hey 👋 I'm Abdullah Anwar</h1>
 
-###
+<p align="center">
+  <a href="https://YOUR-PORTFOLIO-LINK-HERE](https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO%20WEBSITE-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-<h1 align="left">🚀 HI, I’M ABDULLAH<br>💻 FRONTEND DEVELOPER | JAVASCRIPT & AI ENTHUSIAST<br>🌏 BASED IN PAKISTAN</h1>
+<h1 align="left">
+🚀 HI, I’M ABDULLAH<br>
+💻 FRONTEND DEVELOPER | JAVASCRIPT & AI ENTHUSIAST<br>
+🌏 BASED IN PAKISTAN
+</h1>
 
-###
+---
 
 <h2 align="left">👋 ABOUT ME</h2>
 
-###
+<p align="left">
+I’m a passionate <b>Frontend Web Developer</b> who loves building modern, responsive and user-friendly web apps.  
+I work mainly with JavaScript and enjoy exploring AI tools to improve productivity and creativity 🚀
+</p>
 
-<p align="left">💻 I code with:<br>JavaScript ⚡<br>HTML & CSS 🎨<br>React.js ⚛️<br>Node.js 🌐<br>AI tools 🤖</p>
+---
 
-###
+<h3>💻 I Code With:</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-</div>
+<p>
+JavaScript ⚡ | HTML & CSS 🎨 | React.js ⚛️ | Node.js 🌐 | AI Tools 🤖
+</p>
 
-###
-
-<h1 align="left">🛠️ SKILLS</h1>
-
-###
+---
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify" height="40"/>
 </div>
 
-###
+---
+
+<h2 align="left">🛠️ SKILLS</h2>
+
+- Responsive Web Design  
+- Modern UI / UX  
+- JavaScript (ES6+)  
+- React Basics  
+- Git & GitHub  
+- AI Productivity Tools  
+
+---
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+- 💼 GitHub: https://github.com/CodeWithAbdullah-007  
+- 🌐 **MY PORTFOLIO WEBSITE:** https://YOUR-PORTFOLIO-LINK-HERE  
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CodeWithAbdullah-007/CodeWithAbdullah-007/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/CodeWithAbdullah-007/CodeWithAbdullah-007/output/snake.svg" alt="Snake animation"/>
 </div>
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=CodeWithAbdullah-007&theme=ambient_gradient&show_icons=true&include_all_commits=true&count_private=true)
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=ABDULLAH_THE_CODER&fontSize=69&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=CodeWithAbdullah-007&theme=ambient_gradient)
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeWithAbdullah-007&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodeWithAbdullah-007&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAbdullah-007&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAbdullah-007&theme=ambient_gradient&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWithAbdullah-007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CodeWithAbdullah-007&theme=radical&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
