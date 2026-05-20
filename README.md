@@ -2,8 +2,41 @@
 
 <p align="center">
   <a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
-    <img src="https://img.shields.io/badge/MY%20PORTFOLIO%20WEBSITE-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED" 
+      alt="Portfolio Badge"
+    />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🔥+Abdullah+Developer+Portfolio;⚡+Frontend+Developer;🚀+React+JS+Enthusiast;💻+Modern+UI%2FUX+Designer" 
+      alt="Typing Animation"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
+    <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00F7FF?style=for-the-badge&logo=firefox-browser&logoColor=black"/>
+  </a>
+  
+  <a href="https://github.com/CodeWIthAbdullah-007">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=header" 
+    width="100%"
+  />
 </p>
 
 <h1 align="left">
