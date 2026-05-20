@@ -1,43 +1,52 @@
 <h1 align="center">Hey 👋 I'm Abdullah Anwar</h1>
 
-<p align="center">
-  <a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
-    <img 
-      src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED" 
-      alt="Portfolio Badge"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🔥+Abdullah+Developer+Portfolio;⚡+Frontend+Developer;🚀+React+JS+Enthusiast;💻+Modern+UI%2FUX+Designer" 
-      alt="Typing Animation"
-    />
-  </a>
-</p>
+# ⚡ ABDULLAH'S DIGITAL UNIVERSE ⚡
 
-<p align="center">
-  <a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
-    <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00F7FF?style=for-the-badge&logo=firefox-browser&logoColor=black"/>
-  </a>
-  
-  <a href="https://github.com/CodeWIthAbdullah-007">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+FULL+STACK+WEB+DEVELOPER;💎+REACT+JS+SPECIALIST;🔥+MODERN+UI%2FUX+CREATOR;⚡+BUILDING+THE+FUTURE+WITH+CODE" />
 
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=header" 
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ABDULLAH%20ANWAR&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=ffffff&color=0:00F7FF,25:0EA5E9,50:8B5CF6,75:EC4899,100:F43F5E" width="100%"/>
+
+<br><br>
+
+<a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
+  <img src="https://img.shields.io/badge/🌐_ENTER_THE_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=00F7FF&labelColor=111827" height="60"/>
+</a>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeWIthAbdullah-007&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,bootstrap,github,vscode,firebase,nodejs,mongodb" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWIthAbdullah-007&bg_color=0d1117&color=00f7ff&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
+
+<br><br>
+
+<a href="https://github.com/CodeWIthAbdullah-007">
+  <img src="https://img.shields.io/badge/💻_GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
+</a>
+
+<a href="https://codewithabdullah-007.github.io/Abdullah-s-Developer-Portfolio/">
+  <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=000000" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/🔥_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8B5CF6,100:F43F5E&height=140&section=footer"/>
+
+</div>
 
 <h1 align="left">
 🚀 HI, I’M ABDULLAH<br>
